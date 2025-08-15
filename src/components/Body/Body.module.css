@@ -1,12 +1,19 @@
 .Body{
     padding: 20px;
     background: #f9f9f9;
+    min-height: 100vh;
+    flex-direction: column;
+
 
     .cardContainer{
         display: flex;
         gap: 16px;
         flex-wrap: wrap;
+        padding: 2vh 0 2vh 0;
+        
     }
+    
+
 }
 
 /* .body .cardContainer h1 {}
