@@ -14,3 +14,11 @@
 
 
 }
+
+.inputSearch{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    font-size: 24px;
+}
+
